@@ -8,3 +8,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 - Confiabilidade, Previsibilidade e Segurança
 - Governança e Gerenciabilidade
 - O tipos de SLA de computação e nuvem microsoft azure
+- Tipos de serviço de computação em nuvem (IaaS, PaaS e SaaS)
+- Modelos re responabilidade compartilhada
